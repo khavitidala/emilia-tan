@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
+dj-rest-auth = "==1.1.0"
+django-allauth = "*"
+pyyaml = "*"
+uritemplate = "*"
+drf-yasg = "*"
 
 [dev-packages]
 
